@@ -4,7 +4,7 @@ date: 2021-02-06T10:26:21-08:00
 draft: false
 ---
 
-The Turbofish Keyboard will be a split ergo keyboard designed for developers. More broadly, the project is meant as a vehicle for experimenting with keyboard designs in meaningfully interesting ways.
+The Turbofish Keyboard will be a split ergo keyboard designed for developers. More broadly, the project is meant as a vehicle for experimenting with various keyboard design ideas.
 
 ## What is a turbofish?
 
